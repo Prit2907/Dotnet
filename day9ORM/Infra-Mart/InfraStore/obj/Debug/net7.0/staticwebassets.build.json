@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Wg44snpsiW29icpKXVTvX8K256n+epI02/2iob8yyYE=",
+  "Source": "InfraStore",
+  "BasePath": "_content/InfraStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "InfraStore\\wwwroot",
+      "Source": "InfraStore",
+      "ContentRoot": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9ORM\\Infra-Mart\\InfraStore\\wwwroot\\",
+      "BasePath": "_content/InfraStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9ORM\\Infra-Mart\\InfraStore\\wwwroot\\favicon.ico",
+      "SourceId": "InfraStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9ORM\\Infra-Mart\\InfraStore\\wwwroot\\",
+      "BasePath": "_content/InfraStore",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

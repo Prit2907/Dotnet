@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\bin\Debug\net7.0\Firstdotnetapp.exe
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\bin\Debug\net7.0\Firstdotnetapp.deps.json
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\bin\Debug\net7.0\Firstdotnetapp.runtimeconfig.json
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\bin\Debug\net7.0\Firstdotnetapp.dll
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\bin\Debug\net7.0\Firstdotnetapp.pdb
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\obj\Debug\net7.0\Firstdotnetapp.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\obj\Debug\net7.0\Firstdotnetapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\obj\Debug\net7.0\Firstdotnetapp.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\obj\Debug\net7.0\Firstdotnetapp.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\obj\Debug\net7.0\Firstdotnetapp.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\obj\Debug\net7.0\Firstdotnetapp.dll
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\obj\Debug\net7.0\refint\Firstdotnetapp.dll
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\obj\Debug\net7.0\Firstdotnetapp.pdb
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\obj\Debug\net7.0\Firstdotnetapp.genruntimeconfig.cache
+C:\Users\IET\Desktop\DotnetLab\day1\Firstdotnetapp\obj\Debug\net7.0\ref\Firstdotnetapp.dll

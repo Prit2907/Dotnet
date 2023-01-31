@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Catalog\Catalog.csproj" />
+    <ProjectReference Include="..\BI\BI.csproj" />
+    <ProjectReference Include="..\Membership\Membership.csproj" />
+    <ProjectReference Include="..\CRM\CRM.csproj" />
+    <ProjectReference Include="..\OrderProcessing\OrderProcessing.csproj" />
+    <ProjectReference Include="..\Catalog\Product.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

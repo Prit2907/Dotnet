@@ -1,0 +1,350 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\PortalConsole\\PortalConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\BI\\BI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\BI\\BI.csproj",
+        "projectName": "BI",
+        "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\BI\\BI.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\BI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Catalog\\Product.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Catalog\\Product.csproj",
+        "projectName": "Product",
+        "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Catalog\\Product.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Catalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\CRM\\CRM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\CRM\\CRM.csproj",
+        "projectName": "CRM",
+        "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\CRM\\CRM.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\CRM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Membership\\Membership.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Membership\\Membership.csproj",
+        "projectName": "Membership",
+        "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Membership\\Membership.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Membership\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj",
+        "projectName": "OrderProcessing",
+        "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\OrderProcessing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\PortalConsole\\PortalConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\PortalConsole\\PortalConsole.csproj",
+        "projectName": "PortalConsole",
+        "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\PortalConsole\\PortalConsole.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\PortalConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\BI\\BI.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\BI\\BI.csproj"
+              },
+              "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Catalog\\Product.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Catalog\\Product.csproj"
+              },
+              "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\CRM\\CRM.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\CRM\\CRM.csproj"
+              },
+              "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Membership\\Membership.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\Membership\\Membership.csproj"
+              },
+              "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\DotnetLab\\day2\\OnlineShopping\\OrderProcessing\\OrderProcessing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

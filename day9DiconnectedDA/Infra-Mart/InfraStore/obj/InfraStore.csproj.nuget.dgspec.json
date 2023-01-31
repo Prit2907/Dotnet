@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\InfraStore\\InfraStore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\patil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\BOL.csproj"
+              },
+              "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\BOL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\BOL.csproj",
+        "projectName": "BOL",
+        "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\patil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\patil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\InfraStore\\InfraStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\InfraStore\\InfraStore.csproj",
+        "projectName": "InfraStore",
+        "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\InfraStore\\InfraStore.csproj",
+        "packagesPath": "C:\\Users\\patil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\InfraStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\BOL.csproj"
+              },
+              "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\SAL\\SAL.csproj": {
+                "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\SAL\\SAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\SAL\\SAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\SAL\\SAL.csproj",
+        "projectName": "SAL",
+        "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\SAL\\SAL.csproj",
+        "packagesPath": "C:\\Users\\patil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\SAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BLL\\BLL.csproj"
+              },
+              "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\Dotnet\\DotnetLab\\day9DiconnectedDA\\Infra-Mart\\BOL\\BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

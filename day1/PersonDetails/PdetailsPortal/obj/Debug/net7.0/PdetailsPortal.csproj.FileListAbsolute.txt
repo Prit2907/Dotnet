@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\bin\Debug\net7.0\PdetailsPortal.exe
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\bin\Debug\net7.0\PdetailsPortal.deps.json
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\bin\Debug\net7.0\PdetailsPortal.runtimeconfig.json
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\bin\Debug\net7.0\PdetailsPortal.dll
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\bin\Debug\net7.0\PdetailsPortal.pdb
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\obj\Debug\net7.0\PdetailsPortal.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\obj\Debug\net7.0\PdetailsPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\obj\Debug\net7.0\PdetailsPortal.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\obj\Debug\net7.0\PdetailsPortal.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\obj\Debug\net7.0\PdetailsPortal.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\obj\Debug\net7.0\PdetailsPortal.dll
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\obj\Debug\net7.0\refint\PdetailsPortal.dll
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\obj\Debug\net7.0\PdetailsPortal.pdb
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\obj\Debug\net7.0\PdetailsPortal.genruntimeconfig.cache
+C:\Users\IET\Desktop\DotnetLab\day1\PersonDetails\PdetailsPortal\obj\Debug\net7.0\ref\PdetailsPortal.dll

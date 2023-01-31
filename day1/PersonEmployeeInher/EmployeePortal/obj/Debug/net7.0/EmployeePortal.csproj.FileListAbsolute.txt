@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\obj\Debug\net7.0\EmployeePortal.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\obj\Debug\net7.0\EmployeePortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\obj\Debug\net7.0\EmployeePortal.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\obj\Debug\net7.0\EmployeePortal.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\obj\Debug\net7.0\EmployeePortal.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\bin\Debug\net7.0\EmployeePortal.exe
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\bin\Debug\net7.0\EmployeePortal.deps.json
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\bin\Debug\net7.0\EmployeePortal.runtimeconfig.json
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\bin\Debug\net7.0\EmployeePortal.dll
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\bin\Debug\net7.0\EmployeePortal.pdb
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\obj\Debug\net7.0\EmployeePortal.dll
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\obj\Debug\net7.0\refint\EmployeePortal.dll
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\obj\Debug\net7.0\EmployeePortal.pdb
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\obj\Debug\net7.0\EmployeePortal.genruntimeconfig.cache
+C:\Users\IET\Desktop\DotnetLab\day1\PersonEmployeeInher\EmployeePortal\obj\Debug\net7.0\ref\EmployeePortal.dll
